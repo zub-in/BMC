@@ -1,0 +1,42 @@
+
+9:59 AM 8/16/2024
+
+BMC 1.2: Monitoring GDP
+
+
+
+Real GDP growth is the most definitive and authoritative barometer of the overall economy.
+
+It is painstakingly calculated through hundreds of data sources.
+
+GDP = C + I + G + (X - M)
+
+
+After the end of a quarter, the GDP report (from the BEA within the DoC),
+	as a preliminary calculation, takes a month to come out.
+
+This is not particularly useful, as there are more frequently and more timely
+	indicators that are correlated with GDP:
+		- nonfarm payroll: NFP TCH index
+		- purchasing managers' index: NAPMPMI index
+			[good indicator for the manufacturing and service sectors]
+
+-----
+
+Example: Jan 1st 2014
+	1. Look at WECO (world economic calendar)
+		Click on US to see a chronological list of economic indicators that will be released
+
+		First, the NAPMPMI index will be published on 2/3/14
+		Second, the NFP TCH index will be published on 2/7/14
+		Third, housing starts will be published on 2/19/14
+		Fourth, CPI (inflation) will be published on 2/20/14
+
+			For all four, there will be columns for Actual and Surv(M)
+			- Surv(M) is the median expectation of analyst
+		
+			All four of thesse are monthly indicators that are correlated with real GDP growth
+			These four are monthly, whereas GDP is quarterly (Q1 released 4/30/14)
+
+		PMI was Alan Greenspan's "desert island" statistic
+

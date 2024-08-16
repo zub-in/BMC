@@ -1,0 +1,173 @@
+
+
+3:15 PM 8/15/2024
+
+GDP (gross domestic product) is the customary way to measure the size and performance of any economy.
+
+Three main topics:
+	- The importance of GDP to investors
+	- How investors observe [measure?] GDP growth
+	- How investors forecast GDP
+
+	- How investors use economic indicators to gauge the health of the economy
+	- The qualities of good economic indicators
+	- About 5 of the most important economic indicators in the US
+
+	- The regimen upon which economic indicators are published and analyzed
+	- How these can be used to spot inflection points
+
+
+The US has been the world's largest economy continuously since it surpassed the UK in 1872.
+
+Economic health is best gauged through the lens of economic indicators. 
+
+---
+
+The main unit of economic statistics is the nation state.
+
+The 1920s saw spectacular policy failures [like what?],
+which in part led to the Great Depression 1929->1930s
+
+GDP calculation, in many instances, is still a work in progress. 
+	- e.g. in 1987 Italy decided to include the black market in its GDP calculation,
+		which caused a 17% increase in Italian GDP overnight
+	- Nigerian GDP was revised upward by 89% between its 2013 estimate and its 2014 estimate,
+		due to more accurate measurements of booming new industries e.g. "Nollywood"
+	- In 2013, tech spending was broken out of US GDP [in what way???]
+
+Core inflation [without food + energy] vs headline inflation [with food + energy]
+
+---
+
+There are many economic statistics for the world's largest economies.
+
+The prevalence of these statistics can indicate properties of those economies
+	- e.g. There are many pages on inflation in Brazil, as a remnant of a time of high inflation
+	- Hyperinflation is defined as a period in which inflation exceeds 50% per month
+	- Brazil January-March 1990: 71%, 71%, 81%
+
+---
+
+Personal consumption [consumer spending] contributes over two thirds of the US GDP
+
+Analyzing trends in consumer spending and macroeconomic influences is vital to an investor
+
+When analyzing a security with heavy exposure to a certain country,
+	it is helpful to use that country's data as an input to the investment process [??]
+
+	e.g. Chocolate company will likely sell more chocolate when the relevant economy is growing faster
+
+---
+
+Core economic indicators:
+	- Economic growth
+	- Inflation
+	- Unemployment
+	- Business confidence
+	- Housing
+
+---
+
+1. Economic growth:
+
+	Gross domestic product [of a country]:
+
+		The market value of all final goods and services produced in a country.
+
+		GDP = C + I + G + (X - M)
+		where	C = personal consumption
+			I = private investment
+			G = government consumption
+			X = exports
+			M = imports
+			X - M = net exports
+
+Nominal GDP growth rate does not adjust for inflation.
+Real GDP growth rate does adjust for inflation.
+	For example, in 1975 in the UK economy had a nominal GDP growth rate of 24%,
+	but also inflation of 24%, which put the real growth rate at 0
+
+---
+
+A recession is defined as two successive quarters of negative real GDP growth. 
+
+----
+
+2. Inflation
+
+	Fixed income investors watch like hawks for inflation, because it erodes the value of bonds.
+
+	Inflation is the "general increase in prices of goods and services,
+		which diminishes the purchasing power of money."
+
+
+	Primary Sources of Inflation Data:
+		2.1:	[Monthly]
+			PCE [Personal Consumption Expeditures] Report
+				by the Bureau of Economic Analysis [BEA, part of the Department of Commerce]
+			
+			contains a measure of price changes in consumer goods and services
+			also shows what consumers are spending their income on
+
+		2.2:	[Monthly]
+			CPI [Consumer Price Index]
+				by the Bureau of Labor Statistics [BLS, part of the Department of Labor]
+
+			based on a representative basket of goods and services
+			CPI should be truly representative of spending habits in that country
+
+				[Note that what may be representative changes with the times]
+
+-----
+
+3. Unemployment
+
+	Consumer spending is driven by salaries, so the economy tends to shrink when unemployment is high.
+	
+	An overall increase in unemployment depresses GDP growth.
+
+	[This causality should run both ways?]
+
+----
+
+4. Business Confidence
+
+	Institute for Supply Management
+		Purchasing Managers' Index [PMI]
+			This is the most widely followed index of US manufacturing activity.
+			Based on regular surveys of purchasing managers for corporations, about business conditions.
+			A reading above 50 signifies optimism, whereas below 50 signifies pessimism.
+
+		
+			
+------
+
+5. Housing
+
+	House-building accounts for only 3% of the US economy, but is nonetheless considered a strong indicator.
+		1. Homebuilders need to believe that consumers are confident enough to assume a 30-year mortgage.
+		2. Buying a house leads to far more purchases.
+
+	"Housing starts" are the measure [???]
+
+
+-----------------
+
+Summary:
+
+	Real GDP growth is the main gauge of economic health.
+	Economic growth is cyclical, with booms and busts.
+	Investors interpret the economy through economic indicators.
+	Leading indicators attract the most investor interest.
+
+
+
+	
+
+
+
+
+
+
+
+

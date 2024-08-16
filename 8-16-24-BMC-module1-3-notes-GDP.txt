@@ -1,0 +1,83 @@
+
+10:17 AM 8/16/2024
+
+BMC 1.3: Forecasting GDP
+
+
+
+Analysts forecast upcoming indicators. 
+
+Using WECO (World Economic Calendar):
+	- The relevance column (R) indicates the volume of alerts set up by users for each indicator
+	- SURV(M) is the analyst consensus forecast for that indicator
+	- Right click SURV(M) -> ECOS (economist estiamte) shows how this consensus is calculated
+		Light yellow diamond: actual result
+
+Inflation target: 2%
+
+Roles of economists in estimation:
+	1. They maintain estimates of what they think key indicator values will be in the short-term.
+		These show up in SURV(M)
+	2. They form opinions on the longer-term future for the most important economic statistics.
+
+
+ECFC (economic forecasts function):
+	- Real GDP growth (Real GDP YoY%)
+	- Inflation (CPI YoY%)
+	- Unemployment (Unemployment %)
+
+
+Long-term forecasters have to take into account demographics, economic policies, and technology.
+These long-term economic estimates are used as inputs to financial models. 
+
+----
+
+A material change in economic estimates from dozens of analysts
+	 often signifies that an important turning point has been reached. 
+
+
+ECFC example: UK growth estimates [for 2014] changing through the course of 2012 and 2013
+	Useful to plot low, median, and high forecasts
+
+ECFC example: Brexit Referendum on 23 June 2016, and took place on 31 Jan 2020
+	Sharp drop in growth estimates after the referendum
+
+
+ECSU (Economics Surprise Monitor):
+	- 40 handpicked economic indicators for the US economy
+		Columns: Name, most recent release date, actual value, surprise (% diff from analyst expectation)
+	- The aggregation of these surprise% values is the Bloomberg US Economic Surprise Index (ES1 Index?)
+
+Economic surprises may be correlated with SNP 500 annual % return as a 6-month rolling average
+	[seems oddly specific - why 6-month rolling average?]
+
+Note: Inflation gives the % difference between real and nominal GDP
+
+
+Bloomberg Terminal Functions:
+NH: shows a real-time scroll of news headlines
+ECST: provides economic data with context and customizable graphs
+ECFC: displays economic forecasts for identifying trends in global economics
+GP: price chart used to identify trends and market patterns
+ECOD: provides details of reports and economic events int he Economic Calendars (ECO) function
+ECOS: provides full details behind economist estimates for calendar releases
+ECSU: estimates changes in the economy and financial markets
+ECTR: provides an interactive trade flow map that displays export and import values
+
+
+------------------
+
+Summary:
+
+1. Real GDP growth is the main measure of an economy
+2. More timely indicators offer the most insight to investors
+3. Indicators can foretell turning points in the economy
+4. Economic forecasts are the foundation of many financial models
+5. Interpretation of these statistics can lead to profitable trading opportunities
+
+John Maynard Keynes: "When the facts change, I change my mind."
+
+
+"Econometric models work beautifully, until they don't."
+
+
