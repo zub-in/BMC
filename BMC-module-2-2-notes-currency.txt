@@ -1,0 +1,101 @@
+2:04 PM 8/20/2024
+
+BMC Module 2.2: Currency Valuation Drivers
+
+
+Currency exchange rates
+
+Currency arbitrage (no longer possible, at least not to the extent that it previously was)
+	Can be possible in periods of high volatility, but this comes with different risks, 
+	whereas arbitrage opportunies under normal conditions are risk-free profit
+
+In theory, currencies should eventually adjust in value against each other so that:
+	a basket of goods and services priced in one currency should cost the same
+	as when they are priced in another currency
+	
+	this is known as purchasing power parity (PPP)
+	PPP is a better measure of long term trends than short-term ones [why?]
+
+	e.g. Big Mac Index
+
+
+Primary methods for analyzing currency movement:
+	- macroeconomics
+	- sentiment analysis
+
+
+Core assumptions of fundamental analysis
+	- all information is available to all investors simultaneously
+	- all investors seek to maximize their returns whilst minimizing their risk
+	- all investors act with complete rationality at all times
+
+None of these assumptions are correct in practice. 
+
+Sentiment analysis assumes that human investors are incapable of maintaining maximum
+efficiency+rationality, and instead have behavioral weaknesses that impact trading decisions
+
+
+----
+
+Some macroeconomic indicators that are relevant for currency investors:
+	- GDP
+	- CPI
+	- unemployment
+	- industrial production
+	- business conditions
+	- retail sales
+	- current account balance (as % of gdp) [??]
+	- budget balance (as % of gdp)
+	- 10Y yield
+	- central bank rate [?]
+
+-> Bloomberg WCRS -> 290) Economics:
+	- Inflation
+	- Growth
+	- Interest rates [aka yield]
+	- Current account surplus/deficit [?]
+
+----
+
+Inflation -> direct affect on currency exchange rates
+Growth -> increased demand for goods/services in that country -> likely appreciation of currency
+Interest rates -> related to inflation+growth, and have direct impact on currency flows
+	"yield differential": difference between interest rates in two currencies
+	these yield differentials are closely watched by currency investors
+
+
+Investors also watch for bond yield differentials:
+	e.g the difference in yields on 10 year govt bonds in different countries
+	note that such analysis of currency markets differs from that of equity/FI markets
+		equity and FI investors consider also the underlying corporate issuer
+			[???]
+		currency investors consider the ability of the govt to deliver policies
+			which will maintain the value of the currency via low inflation
+			whilst generating sufficient growth to maintain demand for
+			assets denominated in that currency
+
+
+https://en.wikipedia.org/wiki/Bulgarian_lev
+Bulgaria will join the Eurozone as soon as a price stability criterion is met
+Right now, the Bulgarian Lev (BGN) is fixed to the Euro at BGN 1.96 : EUR 1
+
+
+
+------
+
+The Fed has a dual mandate: stable inflation and low unemployment
+	The main tool that the fed has is raising/lowering interest rates
+	Typically, raising interest rates will curb inflation
+	Typically, lowering interest rates will raise employment [why?]
+		[this takes a long time]
+	
+	
+
+-----------
+
+Bloomberg currency commands: first is priced in terms of the second, e.g. CHFUSD CURNCY
+
+Three main drivers of currency valuation:
+	1. Surprise changes in interest rates
+	2. Surprise changes in inflation
+	3. Surprise changes in trade
