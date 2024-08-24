@@ -1,0 +1,179 @@
+3:34 PM 8/20/2024
+
+BMC 2.3: Currency Regulation and Control
+
+Two types: 
+	individual behavior+ethics regulations,
+	government/centralbank regulation
+		e.g. fixed/pegged currencies, cryptocurrency regulation
+
+
+An "open economy" has more imports and exports,
+	but has higher risk of disruption due to currency fluctuations
+
+Net exporters have an incentive to weaken their currency
+Net importers have an incentive to strengthen their currency
+
+Bloomber Terminal -> ECTR [ can see which countries are major trading parters over time ]
+
+
+Budget deficit: spend > receive
+Budget surprlus: spend < receive
+
+If a country wants to run a budget deficit and finance this by borrowing from international investors
+	by issuing bonds in its own currency, then weakness in this country's own currency
+	may deter investors from buying more bonds as they would face a loss on these assets
+
+If a govt instead issues bonds in foreign currencies, then weakness in its own currency
+	can dramatically increase the cost of repaying their debt in the foreign currency
+
+
+In most cases, governments aim to manage the overall trend and volatility in their currency's value
+
+
+A government may want to weaken its currency to increase the cost of imports and protect domestic industries.
+
+
+------------
+
+Central banks may intervene to maintain specific exchange rate policies:
+	- Bank of England 1992
+	- Swiss National Bank 2015
+
+Successful intervention [example hong kong] and failed intervention [example argentina]
+
+
+
+China may be manipulating their currency to maintain competitiveness of chinese exports
+
+
+Bloomberg: -> NI CEN -> news topics: central banks
+
+-------------
+
+Main methods for a central bank to control the FX market:
+
+	1. Direct intervention
+		a central bank buys (or sells) its own currency in order to raise (or lower) its value
+			-> when it buys its own currency, it sells some of its reserves (held in foreign currencies)
+			-> Bloomberg: BI CURRG -> FX Macro -> Reserves/Import Cover 
+				[countries are ranked by the size of their reserves in USD over time]
+
+	2. Verbal intervention
+		a warning by a central bank to market participants that it might intervene directly
+			-> may be sufficient if the "threat" of direct intervention is credible
+
+	3. Interest rate intervention
+		central banks can adjust their official short-term interest rates as a means of currency intervention
+			-> most commonly, tightening monetary policy (raising interest rates) prevents currency weakness
+			
+
+
+Whether these interventions are credible depends on a few questions:
+	Does the central bank have sufficient foreign exchange reserves to continue buying its own currency?
+	Has the central bank previously been successful or not when carrying out such interventions?
+	Would a change in interest rates conflict with the country's underlying economic position/policy?\
+
+		Could this also raise doubts about the political will/ability to sacrifice short-term economic 
+		benefits for the sake of establishing credibility and stability in foreign exchange policy? [??]
+
+	Lack of credibility in a central bank's intervention can make matters worse.
+
+
+
+---------------------
+
+1979 ERM [European Exchange Rate Mechanism] (part of EMS [European Monetary System])
+1990 UK joins ERM
+1999 introduction of Euro and ERM II (European Exchange Rate Mechanism II)
+2011-2012 Eurozone Sofvereign Debt Crisis
+	Investors sold the bonds of govts with large fiscal deficits [?]
+		e.g. Portugal, Italy, Ireland, Greece, Spain
+	This extended to flight out of Euro and into Swiss Franc
+
+
+
+
+Four examples of Central Bank Interventions:
+
+1. Bank of England 1992
+	UK needed strength in Sterling vs DM to maintain membership in ERM
+	UK had economic recession -> for this they needed to maintain low interest rate, 
+		and weakness in Sterling, in order to sustain exports
+
+	George Soros expected that the economic necessity would win out
+	This reflected a general lack of credibility for the Bank of England's ability to maintain the value of GBP
+
+	UK raised interest rates [peaked at 15% on Sept 16 1992], but had to leave the ERM
+
+
+	Bloomberg -> GBPDEM CURNCY GPC [Candle Chart] -> change dates to 06/01/1992-01/01/1993
+
+	This was a good example of a failed central bank intervention.
+
+2. Swiss National Bank 2015
+	In 2012 the Swiss National Bank announced that it would prevent extended Franc strength by imposing a floor at 1.200
+		[vs. DM]
+	This was successful as investors had strong confidence in the Swiss National Bank
+	
+	On Jan 15th 2015 the SNB suddenly announced it would no longer impose this floor
+		There was a dramatic and abrupt reaction
+		WIthin minutes, EUR/CHF fell to 0.85 within minutes
+
+	The SNB was widely criticized for not providing any warning to investors
+
+	Bloomberg -> EURCHF CURNCY GPC W -> change dates to01/01/2010-01/01/2016
+
+
+3. Hong Kong Monetary Authority 1997-1998
+	Established in 1983
+	HKMA has substantial foreign currency reserves
+	These reserves help to maintain credibility that pegged HKD/USD 7.80 will be maintained
+	1997 Asian Financial Crisis
+
+	HKMA threatened penalty charges on institutions which borrowed HKD to lend on to speculators wishing to sell
+	This allowed the 7.80 HKD/USD peg to be maintained
+
+	Similar episode occurred in 1998, this time bolder strategy:
+		HKMA bought HKD, spent 15bn USD on buying Hong Kong equities
+
+	This allowed the HKMA to:
+		- maintain the pegged exchange rate
+		- generate profits on intervention purchases
+		- reinforce their credibility
+	
+	The current range is 7.75 - 7.85, which it still maintains
+
+	The 7.80 peg was maintained both in 1997 and 1998
+	This can't be seen on charts of spot fx prices, but evident in HKD interest rates
+	
+	Bloomberg -> HKD12M CURNCY GPO M -> set dates to include 1997 and 1998
+
+
+
+4. Argentina 2001-2002
+	Since 1980, Argentina has defaulted on its foreign currency debt five times
+	Argentina is currently the largest single debtor of the IMF
+		IMF = main international lender
+	Inflation was 3000-5000% in 1989 and remains volatile.
+	Official methods to measure inflation have changed over the years:
+		Bloomberg -> ECST [World Economic Statistics] -> Type Argentina ->
+			-> Prices+ConsumerPrices -> Transformation:YoY% -> Chart:ARNCYINX -> Maximize chart
+
+	1991: Convertibility Plan to counter hyperinflation + liberalize foreign trade + increase productivity/growth
+		- USD/ARS PEG at 1.00, maintained by foreign currency inflows by state borrowing, and by privatizing state-owned companies
+		- Peg introduced by law, making subsequent changes more difficult
+		- This was generally successful until 1998
+			[1997 Asian Currency Crisis]
+			[1998 Russia's default on debt]
+			[1999 BRL devaluation by 35% -> makes argentine agricultural exports uncompetitive]
+			[1999 Global agricultural prices fall]
+			[general USD strengthening, which means the peg makes argentine 
+			- no "lender of last resort" [?]
+			- bank run 2001, argentina freezes bank accounts, IMF withdraws support
+		- 2001: Dec 26th, 93 billion default = world's biggest ever bond default
+		- 2002: peg changed from 1.00 to 1.40
+
+
+
+		
