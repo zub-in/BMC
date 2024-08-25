@@ -1,0 +1,139 @@
+
+
+3:41 PM 8/21/2024
+
+BMC Module 2.4: Currency Risk
+
+
+Counterparty Risk
+
+
+
+	Translation vs Transaction Risk:
+		Translation risk: incurred when converting statements from foreign currency to reported currency
+		Transaction risk: incurred when conducting a transaction in a foreign currency			
+
+
+	Settlement risk and replacement cost risk are two types of counterparty risk 
+		Settlement Risk : risk of no payment
+			famous example: Herstatt bank [Bankhaus Herstatt in Cologne, bankrupt on 26 June 1974 with multiple incomplete FX transactions]
+			this type of settlement risk is now sometimes called Herstatt risk
+
+			mitigated by CLS [Continously Linked Settlement] regulated by US Fed, removes principal settlement risk,
+				uses a real-time gross settlement [RTGS] system
+				
+				this is NOT the same as a central clearing counterparty, which occurs in some other asset classes
+				CLS is a third-party in the settlement process, but is not a counterparty in the original FX trade
+	
+		Replacement cost risk
+			If the original trade does not go through, and the original counterparty is replaced by a new counterparty,
+				then there may be a cost incurred because the exchange rate with the new counterparty will be different
+
+			Mitigated by credit assessment/monitoring for each FX counterparty
+			
+			The longer the maturity of an FX contract [forward or option], the greater the credit risk
+				This means longer-dated contracts will incur an additional credit charge, usually embedded in the price when originally traded
+
+
+	
+	There is counterparty risk in other asset classes, and in all types of financial derivatives.	
+
+
+
+
+----------
+
+
+Market Risk
+
+	Speculators vs Hedgers
+		Speculators seek to profit from currency fluctuations.
+		Hedgers seek to minimize risk incurred from FX.
+
+	Types of speculators:
+		- Investors in assets denominated in a foreign currency
+		- Corporations facing currency risk on either their import/expoirt or asset value in another currency
+			e.g. US company with UK subsidiary
+		- Individuals buying goods/services in another currency (e.g. travelers)
+
+
+
+
+
+Risk appetite categories:
+	Maximum exposure
+		unlimited in profit and loss
+	Minimum exposure
+		for example: you can eliminate currency risk completely using forward outrights. pay a premium but eliminate all FX exposure
+		[TODO: review how the outrights work]
+		Bloomberg: ?
+	Variable exposure
+		options!
+
+
+
+
+
+Forward outrights can be used to eliminate known future currency risks. 
+	What if, instead, the risk is uncertain?
+	Option contracts can be used to hedge against currency risks in this case.
+
+	Call option: contract giving the right to buy underlying asset
+	Put option: contract giving the right to sell underlying asset
+
+		EUR CURNCY -> Select Euro United States Dollar Spot -> Select OVML:
+			Simple vanilla EUR call / USD put option
+			Note the forward points, interest rates in each currency, and implied volatility [Vol]
+			Volatility is the key pricing factor for option
+
+
+
+
+Three Types of Currency Forecasting Methods:
+	
+		1. Fundamental [macroeconomic]
+			inflation
+			relative interest rates [the "cost of carry"]
+			economic growth
+			employment
+			budget surpluses/deficits
+			current account surpluses/deficits
+	
+		2. Quantitative
+			significant diversity of methods
+		
+			commonality: secrecy of specific methodology
+			commonality: significant back-testing
+				both for historical performance and risk/return relationships
+	
+		
+		3. Technical [sentiment]
+			emphasis on momentum and prevailing sentiment among traders
+
+
+
+
+Bloomberg commands:
+	ECTR
+	OVML
+	FXFA
+	BI CURRG
+	NI CEN
+	GP
+	FXC
+	WCRS MAC
+	ECST
+	FXTF
+	FXFC
+	DES
+	FXIP
+	FRD
+
+
+---------------
+
+
+In the short term, currency values are driven by economic surprises. 
+
+Most central banks target a certain inflation rate (e.g. 2% target in the US and other developed economies).
+
