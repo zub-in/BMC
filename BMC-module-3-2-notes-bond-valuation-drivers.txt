@@ -1,0 +1,99 @@
+
+3:05 PM 8/22/2024
+
+BMC Module 3.2: Bond Valuation Drivers
+
+
+Yields facilitate bond valuation. 
+
+Bond yield is the equivalent interest rate that would provide identical return at the end of the term [maturity date].
+
+Bloomberg: YAS [Yield and Spread]
+	Example: Rwandan bonds 2013-2023
+
+Bloomberg: WB [World Bond Market]
+	Lists yields for government bonds aka sovereign debt
+
+
+-----------
+
+Bond Valuation Drivers:
+
+	Credit Risk:
+
+		- Debt/GDP
+			Government borrowing for projects
+			Project spending contributes to gdp growth, but debt repayments do not contribute to gdp growth
+			Higher debt as a proportion of gdp will usually mean higher debt repayment and a greater drag on gdp growth
+
+			Example: Greek bonds in 2010 had yields peaking at 35% that year. Greek debt as a % of gdp peaked at 160%.
+			Example: Why were Japanese bond yields near 0% in 2017 despite an extremely high debt/gdp ratio? [TODO]
+
+		- Deficit/GDP [annual budget deficit divided by gdp]
+			Bloomberg: WCDM [debt monitor]
+			
+			The higher the deficit as a % of GDP, the higher the yield [typically].
+			Example: The greek deficit reached 16% of GDP in 2009, and by 2010-11 the yields for Greek bonds were 30-35%
+			
+		- Repayment schedule
+			Short term typically has lower yield
+			Long term typically has higher yield
+			
+			Bloomberg: DDIS shows repayment schedule for govt bonds
+
+			Long term bonds are typically only an option for credit-worthy countries.
+
+		- Credit ratings: AAA, AA, A, BBB, BB, B, etc. 
+			Moody's
+			S&P
+			Fitch
+
+			Bloomberg: CSDR [Sovereign Ratings]
+
+			Credit ratings have historically been less reliable for corporate bonds than for govt bonds.
+				Example: Enron 2001 - largest corporate bankruptcy in the US at the time
+
+		- Credit default swaps
+			A form of insurance against govts and corporations defaulting.
+			Can be a more timely warning for default than ratings agencies.
+
+			Bloomberg: SOVR [Sovereign CDS Monitor]
+			
+			
+
+	Macroeconomic Factors:
+
+		- Short-term interest rates
+			In theory, bonds with the same risk profile should have the same yield. 
+			Yields and bond prices are negatively correlated.
+			How are short-term interest rates related to bond yields? [TODO]
+			
+		- Inflation
+			There is generally a positive correlation between inflation in a country and yields on its govt bonds.
+			Bond yields are "nominal" [not "real"] as they do not adjust for inflation. 
+
+			Inflation is detrimental to lenders and beneficial to borrowers.
+			Deflation is beneficial to lenders and detrimental to borrowers. 
+			
+			Governments, almost all of whom are borrowers, tend not to mind some inflation.
+
+			Analogy: Books are to bonds as Amazon is to the Fed
+
+	The UK makes use of long-term govt financing. A significant portion of its debt is due after 2049.
+	The US makes use of short-term govt financing. A significant portion of its debt is due within the next 5 years.
+
+	From the perspective of govts, short-term borrowing is cheaper but riskier for borrowers than long-term borrowing.
+		This is because it relies on the the ongoing appetite of lenders. 
+
+	Yields on other bonds tend to move with yields on US govt bonds, because they serve as benchmarks for all investments.
+
+
+-------------
+
+
+Riskier bonds [in which borrowers have lower credit worthiness] will have significantly higher yields. 
+
+Bond yields can be considered a running verdict on governments' handling of their economies. 
+
+
+--------
