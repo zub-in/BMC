@@ -1,0 +1,103 @@
+
+6:40 PM 8/21/2024
+
+BMC Module 3.1: The Roots of the Bond Market
+
+
+Fixed Income = Bond Market
+
+
+
+Topics for Module 3:
+	The roots of the bond market
+	Bond valuation drivers
+	Central banks and interest rates
+	The yield curve and why it matters
+	Movements in the yield curve [four major shifts and their interpretation]
+	
+	How the bond market became the largest and most complex global market
+	Use of bonds to finance governments
+	Use of yields to compare bonds
+	Government bond yields as reference points
+	Keeping governments accountable via the bond market [?]
+	How interest rate decisions are made by central banks
+	How bond valuation is driven by: credit worthiness, inflation, and interest rates
+	How the yield curve affects all governments, businesses, and consumers
+
+-------
+
+
+At the end of 2016, there were ~101 trillion USD in traded bonds in existence globally.
+This exceeded the world GDP [~79 trillion], and the total value of global stock markets [~65 trillion].
+
+Bloomberg: FIXED INCOME SRCH
+	
+
+------
+
+US Treasury [US Govt Debt], as of end of 2016:
+	1086 actively traded bonds -> 14 trillion USD
+
+US Govt Bond Market [14 trillion USD]
+US Corporate Bond Market [8 trillion USD from ~33 thousand bonds]
+
+Overall, the US hosts about a fifth of the global bond market.
+This is one of the reasons for the centricity of USD in the currency market.
+
+The modern bond market began after the second world war, 
+	after interest liberalization and the removal of capital controls [making it easier for govts to borrow]
+
+
+
+The government bond market is also known as the "sovereign debt market". 
+This is the biggest segment of the global bond market.
+
+Bloomberg commands: 
+	TREASURY SECURITIES
+	SOVEREIGN DEBT OWNERSHIP [ DEBT <GO> ]
+	
+As of the end of 2016, Japan and China owned about 1 trillion each of US Govt Debt
+
+
+Other countries can choose to sell their own currency to buy US Govt Bonds in order to weaken their own currency.
+	This has the benefit of making their exports more competitive.
+
+US Govt Bonds are widely viewed as the safest financial asset. 
+US Govt Bonds are the most liquid tradable asset [?].
+US Govt Bonds can be used as FX reserves.
+
+-----------
+
+The VIX Index is a volatility index, commonly accepted indicator of market turmoil.
+	VIX high -> investors are scared, typically will buy more US Govt Bonds
+
+---------------
+
+Example: IBM
+	Bloomberg -> IBM -> Select Security -> CAST: shows Capital Structure [parent companies + all subsidiaries, how their financing breaks down]
+	Corporations typically have a tax incentive to issue corporate bonds [?].
+	
+-------------
+
+Bonds have coupons [regular, fixed smaller payments] and principal [the main amount, larger]
+	Bloomberg: DDIS function [debt distribution]
+
+Bonds are long-term loans that promise regular smaller payments [coupons] and a large repayment of the principal at the end of the loan. 
+
+----------
+
+The remaining repayments [coupon], together with the floating price of the bond, are used to calculate the bond 'yield'. 
+
+Generally, bond prices and yield have an inverse relationship.
+	This is most clearly seen with a "perpetual bond" [coupons only, principal never repaid]
+		In this case, the bond price and yield are directly inversely correlated
+
+
+When yields are high	: 	new lenders are happy, and new borrowers are not
+When yields are low	: 	new borrowers are happy, and new lenders are not
+
+
+
+
+
+
