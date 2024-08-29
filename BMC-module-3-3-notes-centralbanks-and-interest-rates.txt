@@ -1,0 +1,80 @@
+
+
+4:19 PM 8/22/2024, updated 11:20 AM 8/26/2024
+
+BMC Module 3.3: Central Bankers & Interest Rates
+
+
+	Price competition links all bond yields with govt bond yields. 
+
+	How do govts set short-term bond yields? 
+
+
+
+Bloomberg: IFMO [inflation monitor]
+
+For most developed economies, the inflation target is 2%.
+
+	There have been ~56 instances of runaway inflation.
+	Many of these involve govts printing large amounts of money during wartime.
+		e.g. 	Germany after WW1 24000% inflation
+			Zimbabwe - peaked in Nov 2008 at 8.97 * 10^22 % inflation
+	
+	Oil shocks 1973 and 1979 caused oil prices to spike.
+	In general, inflation was a prominent issue in the 1970s.
+
+
+Bloomberg: GEW [global inflation]
+
+	There are multiple feedback loops, both for inflation and deflation.
+
+	Inflation measures:
+		- GDP deflator [from the quarterly GDP report]
+		- CPI [reported monthly but less accurate than GDP deflator]
+		- Core personal consumer expenditure
+			Core inflation removes food and energy.
+
+		These datasets are historic, so we also need forecasting methods.
+
+	The Output Gap:
+		The difference between the economy's potential output [?] and its actual output
+		
+
+-----
+
+Bonds can be "TIPS" - inflation-protected bonds. [?]
+These will not have fixed payments, but rather payments that are adjust for inflation. 
+
+Bloomberg: ILBE [inflation breakeven rates]
+	Good indicator of investor expectations for inflation in different countries
+
+
+-------------
+
+
+Central Bank Toolkit:
+	Short-term interest rates
+	Statements
+		'verbal intervention', discussing intention to change interest rates
+
+
+
+Fed Chairs:
+	Paul Volcker [1979-1987]
+	Alan Greenspan [1987-2006]
+	Ben Bernanke [2006-2014]
+	Janet Yellen [2014-2018]
+	Jay Powell [2018-present]
+	
+
+Bloomberg: FOMC [Federal Open Market Committee]
+	Meets 8 times per year to set short-term interest rates
+
+Bloomberg: FOMS [FOMC Statements]
+
+Bloomberg: USGG10YR Index [US 10 year govt bond yields]
+
+
+
+Probabilities of different interest rate decisions can be inferred from the futures and options markets
+	Bloomberg: WIRP 
