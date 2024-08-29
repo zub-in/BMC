@@ -1,0 +1,52 @@
+
+
+11:51 AM 8/26/2024
+
+BMC Module 3.4: The Yield Curve
+
+Bloomberg: Yield Curve -> GC
+	x-axis is maturity, y-axis is yield
+	Typically, the greater uncertainty/risk involved in longer-maturity debt makes the yield higher.
+	This results in a positive-slope yield curve.
+
+The difference between the yield on the longer- and shorter-maturity bonds is called the yield premium or 'term premium'.
+
+ECFC: forecasts for economic indicator
+FXFC: forecasts for exchange rates
+BYFC: forecasts for bond yields
+
+
+-------------
+
+Yield Curve and Corporate Bonds
+
+	Corporate projects are medium- or long-term, and require the corresponding bonds
+	Corporate bonds are higher yield [and higher risk] than govt bonds
+		The difference is called the "spread"
+
+	Yield Curve -> GC -> Kellogg's
+		Easy way to visualize spread
+		The aggregate of corporate bond spread is called the 'corporate spread'
+
+	Basis points [bips] = hundredths of a %
+
+
+
+
+Yield Curve and Consumers
+
+	Government bond yields influence the affordability of homes and the overall level of activity in the housing market
+	There are multiple second-order effects associated with the housing market
+	
+
+Yield Curve and Global Impact
+
+	The worlds' economies tend to be stimulated or depressed in sync.
+	The worlds' govt bond yields tend to move in sync as well.
+
+
+
+Most bond yields and prices move with US govt bond yields/prices.
+
+
+
