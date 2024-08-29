@@ -1,0 +1,56 @@
+
+12:12 PM 8/26/2024
+
+BMC Module 3.5: Movements in the Yield Curve
+
+
+Bloomberg: FDIR Index
+	Fed sets overnight interest rates [yield on a bond with 24-hr maturity]
+	These correspond to the leftmost section of the yield curve.
+
+Long-term yields are more complicated, driven by beliefs in long-term economic prospects.
+	Inflation expectations are a major driver of long-term yields.
+
+
+WIRP helps with predicting short-term yields
+ILBE helps with predicting long-term yields
+
+-------
+
+
+If rates are low and inflation goes up, the yield curve should be steep.
+
+If FI investors expect inflation to go up, they would sell bonds.
+If FI investors expect inflation to decrease, they would buy bonds.
+If FI investors expect rate increases, they would sell bonds.
+IF FI investors rate cuts, they would buy bonds.
+
+Negative slope yield curves are called 'inverted'.
+	This typically means expectations of economic slowdown.
+	It has historically been a predictor of recessions.
+	Inversion should reflect expectations of lower inflation in the long term.
+
+
+A very steep yield curve is a sign of an accelerating economy.
+
+
+----------
+
+
+Bloomberg -> Yield Curve -> GC3D, plots yield curve over time
+
+
+
+
+
+
+
+---------------
+
+
+1. Increased govt spending + borrowing has driven growth of the fixed income market
+2. Bond yields (and inversely prices) are driven by creditworthiness, inflation, and interest rates
+3. Central banks have a mandate to guard against deflation and inflation [target inflation 2%]
+4. Central banks influence govts, businesses, and consumers via short-term interest rates and the yield curve
+5. Changes of the shape of the yield curve are strong economic indicators [e.g. inversion predicting recessions]
+
