@@ -1,0 +1,86 @@
+
+12:40 PM 8/26/2024
+
+BMC Module 4.1: Equities
+
+4.1: Stock Market Introduction
+4.2: Rights of Equity Holders vs. Bond Holders
+4.3: Equity Research
+4.4: Absolute Valuation
+4.5: Relative Valuation
+
+- Index performance calculation
+- Drivers for stock-market volatility
+- Relationship between company ecosystems and volatility
+	Industry and supply-chain analysis for equity research
+- Earnings forecast generation process
+- 5-step a bsolute valuation process and limitations
+- Relative valuation process and earnings
+
+
+--------------
+
+Equities are the second-biggest asset class, after fixed income.
+
+	
+	Sep 24th, 1869 "Black Friday": Gold market collapse
+	Oct 24th, 1929 "Black Thursday": Stock market crash
+	Oct 28th, 1929 "Black Tuesday": Continuation
+	Oct 19th, 1987 "Black Monday": Stock market crash
+	Sep 16th, 1992 "Black Wedensday": UK withdraws from ERM 1, failed exchange rate intervention
+
+
+
+The purpose of stock markets is to allocate resources to productive enterprises. 
+Over time, successful businesses will have access to more funding via the stock market.
+The bond market makes it easy to enter and exit loan agreements.
+Similarly, the stock market makes it easy to enter and exit company investments.
+
+Arturo Di Modica
+https://en.wikipedia.org/wiki/Charging_Bull
+
+----------------
+
+
+The equity market's size can be found with Bloomberg's equity screening tool [ EQS ].
+Total equity market cap as of 2022: 86 trillion USD
+
+	Samsung acccounts for 17% of South Korean exports
+
+IPO: initial public offering
+Bloomberg: IPO
+
+----------
+
+Special Purpose Acquisition Company [SPAC] issuances are another way for companies to raise money
+	They have been around for years but became much more popular in 2020 [and since]
+
+Delisting is not always negative [e.g. successful acquisitions can result in delisting of the acquired company]
+
+
+Recently [since 2018] there have been more delistings than IPOs. 
+
+-----
+
+Bloomberg: WEI [World Equity Indices]
+	DOW
+	S&P 500 [accounts for a quarter of global market cap]
+		Can see all members by MEMB
+		SPX is the S&P 500 index
+	NASDAQ
+	S&P/TSX Comp
+	
+	DAX
+
+	NIKKEI
+
+	FTSE 100 [UK's main equity index]f
+
+Bloomberg: EMEQ [Emerging Market Equities Indices]
+
+Bloomebrg: WM [World Equity Markets]
+
+
+
+
+
