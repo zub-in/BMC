@@ -1,0 +1,39 @@
+
+1:18 PM 8/26/2024
+
+BMC Module 4.2: Differences Between Equities and Bonds
+
+Bonds have fixed repayments.
+
+Equities have residual cash flows (dividends).
+	Only after all other claims are satisfied:
+		Payments to suppliers
+		Compensation to employees
+		Repayments to lenders
+		Taxes to govt
+	All of these have higher priority than dividends
+
+Fixed costs of necessities magnify the impact of salary changes on discretionary income.
+Shareholder dividends are analogous to this 'discretionary income'.
+
+Companies that have borrowed heavily are considered riskier.
+
+Interest cover ratio = operating income / interest expense
+	measures how well a borrower can cover interest payments with their operating income
+
+
+Bonds are typically preferred by risk-averse people
+Equities are typically preferred by those with a higher risk appetite
+
+
+Major fixed income index: Bloomberg US Aggregate Bond Index [LBUSTRUU Index]
+
+
+Stock indices do not account for dividends
+
+
+Bloomberg: TRA [Total Return Analysis]
+	The return if they were to reinvest dividends
+
+
+Both returns should be compared to nominal GDP growth
