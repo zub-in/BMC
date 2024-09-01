@@ -1,0 +1,87 @@
+
+4:18 PM 8/26/2024
+
+BMC Module 4.4: Absolute Valuation
+
+
+Good financial models balance simplicity with insight.
+
+
+The number of shares of a company is typically decided by a company's treasurer. 
+Size of a company = market capitalization = # of shares * price of each share
+% changes in share prices are meaningful - dollar amounts for share prices are not meaningful. 
+
+Stock Splits
+	Bloomberg: NI SPLREV [Reverse Stock Splits News]
+
+Stock Buybacks
+	Buying back stock shows a company has faith in itself.
+
+
+
+Absolute Valuation
+	Estimation of future earnings and their present value
+		Pros: precise, anchored to earnings, disciplined thought process [?]
+		Cons: demands clairvoyancce, laborious, prone to subtle manipulation
+
+	Note that free cash flows [instead of earnings] are used when conducting absolute valuation
+
+	Steps:
+		1. Estimate long-term future cash flows
+		2. Estimate WACC [weighted average cost of capital], the rate at which to discount
+			Typically firms are financed by both shareholders and bondholders.
+			Therefore the WACC used for the overall firm should be a blend based on this split between equity and debt financing.
+				Bloomberg: WACC
+					commonly ~8%
+					note that for all companies, WACC > nominal GDP growth in the long run
+			CAPM [!] to estimate the cost of equity
+				- start with 10-year govt bond yield [risk-free rate]
+					[why not 5-yr? why not 30-yr? why not 1-yr?]
+				- identify historic market return for that country
+				- calculate the market risk premium [market return - risk free rate]
+				- estimate beta for the company [Bloomberg: BETA]
+					Beta is the slope of the best fit line in the linear regression between that company's stock and SPX
+						if it's a different country, use a different index for regression
+					it is a measurement of the stock's sensitivity to changes in the overall market
+				- multiply this beta by the market risk premium
+				- add back the risk free rate to this result
+				- this will be the cost of equity for that company
+		3. Discount outputs from 1 by the WACC from 2
+		4. Deduct the firm's indebtness, add the firm's cash, to derive the market cap
+			Bloomberg: EV [Enterprise Value]
+				The enterprise value belongs to both bondholders and shareholders.
+				We need to subtract the total debt.
+				We also need to add in cash[&equivalents] which belong to the shareholders.
+				The result shouild be the market capitalization of the company. 
+		5. Divide by # of shares to arrive at the estimated fair share price	
+
+
+Analysts need to be aware of the earnings cycle and the interest rate cycle to form a view on the stock market.
+Heavily indebted companies have more volatile share prices than companies with less/no debt.
+	This is because the amount owed back to bondholders is fixed, whereas the amount owed to shareholders moves sharply.
+	Debt magnifies the returns on offer to shareholders, because bondholders do not benefit from the whole firm becoming more valuable.
+	Debt also magnifies the losses to shareholders, for the same reason. 
+	This is one major reason why equities are more voltatile than bonds. 
+
+Bloomberg: DS [Document Search]
+
+
+
+Sensitivities to be mindful of during valuation:
+	TOP : news
+	FXC : FX markets
+	GLCO: commodity markets
+	WEI : overall moves in stock markets [affects WACC]
+	WB  : bond yield changes [affects WACC]
+	positive feedback [rising share price -> company will find it easier to raise additional capital]
+	
+
+---------------------
+
+Relative Valuation
+	Comparison with other companies and the overall market
+		Pros: easier to understand, simple to calculate, does not demand long-term forecasts
+		Cons: directional, hard to find truly comparable companies, presupposes fair valuation of other companies
+
+
+
