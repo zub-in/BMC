@@ -1,0 +1,69 @@
+1:47 PM 8/26/2024, updated 3:26 PM 8/26/2024
+
+BMC Module 4.3: Equity Research
+
+What do shareholders own?
+	1. They own the earnings that a company generates after paying off all other expenses.
+	2. They own the sum total of company assets that are not owed to lenders [net assets].
+
+Earnings are a stream of future cash flows.
+FI repayments are fixed, whereas equity earnings are not.
+Changes in company revenues and costs make residual earnings volatile.
+	e.g. FORD 1988-2022
+		income statement
+			top line: revenues
+			bottom line: earnings [ = net income ] = revenues - costs
+
+Bloomberg: EVTS
+	Companies typically have quarterly earnings reports. Publicly traded companies are required to do so. 
+	These have scheduled release dates, similar to the release of economic indicators.
+
+
+How to estimate future company earnings:
+
+	1. Industry classification
+		Bloomberg: DES [security description]
+		Bloomberg: CCB [company classification browser]
+		Bloomberg: ICS
+	
+	2. Suppliers and buyers
+		Costs can be better estimated using information on suppliers
+		Revenues can be better estimated using information on buyers
+		Bloomberg: SPLC [Supply Chain Analysis]
+			e.g. Boeing: 364 suppliers, 327 customers, 10 competitors. All listeed on SPLC
+			40% of Boeing revenue comes from govt contracts -> news on US defense budget is relevant to boeing investors
+
+		OpEx vs CapEx
+			Operating expenses are shorter-term expenses for day-to-day operations
+			Capital expenditures are payments recorded on a balance sheet rather than expensed on the income statement [?]
+			An item must be expensed on the income statement (rather than capitalized) if it has a useful life < 1 year.
+				e.g. purchases of land, vehicles, buildings, or heavy machinery are CapEx
+	
+	3. Revenue Projections
+		Industry insights are needed.
+		"How big is the pie? How big is this company's slice of the pie?"
+		EPS = Earnings per Share
+			-> EPS forecasting provides insight into how a company's earnings are expected to grow/decline
+	
+	4. Cost Base
+		BI [Bloomberg Intelligence]
+		e.g. rare earth metal used in wind turbinesf
+		e.g. Rolls-Royce in aircraft engine industry
+	
+		EVTS [ company events database ]
+			earnings calls
+			management Q&A with analysts
+
+		DRIV [ drivers ]
+		FTW [ factors to watch ]
+		
+	The % difference in a statistic compared with the mean analyst expectation is called the surprise (%).
+		Bloomberg: SURP
+	Positive surprises are called "beats" and negative ones are called "misses". 
+		Surprise indices are not sufficient for valuation purposes [the correlation is not strong].
+
+--------------------
+
+
+	
+	
