@@ -1,0 +1,56 @@
+
+5:32 PM 8/26/2024
+
+BMC Module 4.5: Relative Valuation
+
+
+Relative Valuation
+	Comparison with other companies and the overall market
+		Pros: easier to understand, simple to calculate, does not demand long-term forecasts
+		Cons: directional, hard to find truly comparable companies, presupposes fair valuation of other companies
+
+
+Metrics:
+
+	Dividend Yield
+		Dividend yields are easier to calculate than bond yields.
+		However, dividend payments are uncertain and highly variable, whereas bond payments are typically fixed.
+		
+		Bloomberg: DVD
+			example: coca-cola steadily growing dividends
+
+		Standard calculation: 1 year of dividends
+			Dividend Yield % = $ dividend per share / $ price per share
+			It is common to pay dividends twice or four times per year
+
+	Price to Earnings ratio (P/E)
+
+		This is the reciprocal of the Earnings Yield % = $ earnings per share / $ price per share
+		Bloomberg: WEI
+
+		BF [blended forward] P/E ratio
+	
+Applications of these metrics:
+	Self [trend of this metric for the same company, over time]
+	Peers [same metric for similar companies]
+		Comps table [table of comparables]
+		Companies that are comparable but are not publicly traded will not help
+	Market [same metric for the overall market]
+
+
+
+--------------
+
+
+
+[ total earnings ] = net income / net profit ?
+
+Market cap is [ total earnings ] * [ P / E ratio ]
+Stock price is [ total earnings ] * [ P / E ratio ] / # of shares    (this process can be aggregated for indices)
+An increase in this stock price can be:
+	the result of earnings growth
+	the result of "multiple expansion" [increase in P / E ratio]
+		"multiple contraction" is when the P / E ratio decreases
+
+Estimating the P/E ratio is typically difficult when a company is rapidly growing. 
+
