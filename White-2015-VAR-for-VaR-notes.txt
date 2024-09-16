@@ -1,0 +1,36 @@
+
+9:25 AM 9/16/2024
+
+MVQM (Multivariate Quantile Model)
+
+
+
+Multivariate quantile regression with:
+	I. 	multiple random variables
+	II.	multiple confidence levels
+	III. 	multiple lags of the associated quantities
+
+
+Quantile regression:
+	- OLS regression estimates the conditional **mean** of the response variable across values of the predictor variables
+	- Quantile regression estimates the conditional **median** of the response variable across values of the predictor variables
+		[The median is the specific case of 0.50th quantile, or 50th percentile. The general model accomodates other quantiles] 
+	
+	- Seminal paper is Koenker and Bassett 1978 [this is the basis for most quantile regressions]
+		Since this paper, quantile regressions have been widely used in finance, labor economics, and macroeconomics
+
+	- White et al. generalizes this to a multivariate quantile regression
+
+
+
+In conditions I-III above (conditions under which OLS and standard quantile regression fail), the multivariable quantile model is useful:
+	White+kim+manganelli 2015, titled VAR for VaR
+		[VAR = vector autoregressive]
+		[VaR = values at risk]
+		White et al.'s original analysis was for spillovers in VaR between a market index and financial institutions
+
+
+
+
+	
+
